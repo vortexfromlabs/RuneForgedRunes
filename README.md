@@ -5,9 +5,9 @@
 # ✦ RuneForgedRunes ✦
 **The Infinite Meta-Skill & Custom Enchant Engine for Minecraft (1.16.5 - 1.21+)**
 
-[![SpigotMC](https://img.shields.io/badge/Spigot-Download-orange.svg?style=for-the-badge&logo=spigotmc)](#) 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Download-green.svg?style=for-the-badge&logo=modrinth)](#) 
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da.svg?style=for-the-badge&logo=discord)]([YOUR_DISCORD_LINK_HERE](https://discord.gg/ckJHr36Bet))
+[![SpigotMC](https://img.shields.io/badge/Spigot-Download-orange.svg?style=for-the-badge&logo=spigotmc)](https://www.spigotmc.org/resources/runeforgedrunes.139101/) 
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-green.svg?style=for-the-badge&logo=modrinth)](https://modrinth.com/plugin/runeforgedrunes) 
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da.svg?style=for-the-badge&logo=discord)]([https://discord.gg/ckJHr36Bet](https://discord.gg/ckJHr36Bet))
 
 > *Stop writing code. Start forging magic.* <br>
 > RuneForgedRunes is a complete Trigger-Condition-Effect (TCE) engine that lets you create "Beyond Minecraft" abilities like Black Holes, Meteor Strikes, and Chain Lightning—all from a beautiful in-game GUI.
